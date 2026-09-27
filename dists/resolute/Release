@@ -1,20 +1,20 @@
 Architectures: amd64
 Codename: resolute
 Components: main
-Date: Sun, 27 Sep 2026 21:45:01 +0000
+Date: Sun, 27 Sep 2026 22:04:31 +0000
 Description: Calivi for resolute
 Label: Calivi
 Origin: Calivi
 Suite: resolute
 MD5Sum:
- f57d6db3759f6d27c8361cb1024a7104             4232 main/binary-amd64/Packages
- b7f1094a61d5ef527dd18eb226269b8d             1317 main/binary-amd64/Packages.gz
+ 799f844d658ca79a212a78b7142c33c8             5290 main/binary-amd64/Packages
+ d47510fa3865404a6b13e068552ae997             1509 main/binary-amd64/Packages.gz
 SHA1:
- cb67f010fba2a08f33cefe5aa84132e55bfe888c             4232 main/binary-amd64/Packages
- 6f87c25020e4c67fbc3f45639804666441fd3b4a             1317 main/binary-amd64/Packages.gz
+ 38d3316aa258e5af6aa00e967a1069fb9cd8eb7a             5290 main/binary-amd64/Packages
+ f39f15b51bdedf79f7fe75db4e56a00b1b14bde3             1509 main/binary-amd64/Packages.gz
 SHA256:
- 88d800fb285243bd3a92e0f4419fa1d902094d1ddc06e465014bc49759e34d30             4232 main/binary-amd64/Packages
- d396d1daa3dbde4b5f011067ec1468985ac98488185b473bc31698988706423b             1317 main/binary-amd64/Packages.gz
+ 266090c6bda4b453b1ae0322a060c5b3a4208e5dd43bdb5f60399f7e1f0d5f97             5290 main/binary-amd64/Packages
+ bf14c178bcc023a11135b8b8a86e91e2d5c9a714915782dad5175d35fd6b1115             1509 main/binary-amd64/Packages.gz
 SHA512:
- 841a919ade8ba6f6a47cb9ed17ea87d0c6b1a87c13e6e1963680d42a85aff0361e3510f648e0593fc64a7c60bbf10ed39e540c37f38e5929ea26a2328b0d51c4             4232 main/binary-amd64/Packages
- 4d20e80b9c933f7e962774f0473950597e74f021673cfd3ad62ff404fa850ff785694890bb60787d5454840f8623db622ca2edede4a8d3cf314cda99f5873d7a             1317 main/binary-amd64/Packages.gz
+ 919a5410ba24830a0f54a2e33051cdda26c19a6dfa77a8e9f7705d594f0ba2f3e1b3c7749ae5fe0b59c6d484810903887a0f13308bddbe3c355de5b82afb2462             5290 main/binary-amd64/Packages
+ 0c46a0899fffbca89c19c811243fb3bcca7406de4799b208a1be83b8f9e869282b755285c737a1eee7341adc320af04ad9644a599302c47ace846db83052d92c             1509 main/binary-amd64/Packages.gz
