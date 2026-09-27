@@ -1,20 +1,20 @@
 Architectures: amd64
 Codename: resolute
 Components: main
-Date: Sun, 27 Sep 2026 18:31:12 +0000
+Date: Sun, 27 Sep 2026 20:44:18 +0000
 Description: Calivi for resolute
 Label: Calivi
 Origin: Calivi
 Suite: resolute
 MD5Sum:
- a48b5d94bd61f76e774e6d3337af0e86             2116 main/binary-amd64/Packages
- 94c47717e3e70397dce72e3193b87c13              923 main/binary-amd64/Packages.gz
+ bef6e3c0ef525cd4706f75ff8625d226             3174 main/binary-amd64/Packages
+ 63c6346e359e949463d680215a6d690a             1121 main/binary-amd64/Packages.gz
 SHA1:
- bccdd807cd9e0c5efad9c765719bcfd1db46f981             2116 main/binary-amd64/Packages
- 6e7c5cb695b6813a7634516d8cb173d0e2be91d9              923 main/binary-amd64/Packages.gz
+ a893950924060cdb45e3abd60d3cbce3350688ce             3174 main/binary-amd64/Packages
+ 6ccb4bcc140695d8e441a825164caba1bcc8570e             1121 main/binary-amd64/Packages.gz
 SHA256:
- a85cfe28f718bb164fffba2d5e00d653df519891d49cdfa427a5c9ee104265bd             2116 main/binary-amd64/Packages
- f1506838703c5d78720b1371e7eec9dbbf3e27a8102499a8ee6f9ffd38d62204              923 main/binary-amd64/Packages.gz
+ 67895c2bf32689786fc461b7fd9a985818c46f21d182608cb592d5f7a28b6558             3174 main/binary-amd64/Packages
+ 5095cea8e903bf70fff0bfc30d2126279241ec413a2b0de9dd9d642280a7ad9f             1121 main/binary-amd64/Packages.gz
 SHA512:
- e2aac998c9a2926520e67a0a1884d8d6dc1f32ab23c588cdb29d708c0e115ac10c7ceee6f5942b7c0742ffc2dcd440e78d964c34d8222628346f6ac66b7e6f16             2116 main/binary-amd64/Packages
- e8148726285200c3d2ebed3e5dd360ebf2dfb93b51705ec51f925d90798e89fa833331b3c79865514d15ec500b20809bed02c0cc258c8ad65308da5e022f8503              923 main/binary-amd64/Packages.gz
+ 4d2ec2d899654d123dca71e1fc4f8cf20ff5a7f0f98b8a31b9ca1fb625478a93dca13bbbb054a3464c7e3c80b06c5a64b9622c3e4391187449e56de7008a8a1c             3174 main/binary-amd64/Packages
+ 8d4d6faacf1ce70beacbe1e9f3c53c72dc42e26c8543f6776cf245b5f9c6ec93e83b84b52efc13d0944cea881ba4579a3e2cf8cfc10431e6361ee140a9101c1a             1121 main/binary-amd64/Packages.gz
