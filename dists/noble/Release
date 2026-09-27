@@ -1,20 +1,20 @@
 Architectures: amd64
 Codename: noble
 Components: main
-Date: Sun, 27 Sep 2026 20:44:19 +0000
+Date: Sun, 27 Sep 2026 21:45:02 +0000
 Description: Calivi for noble
 Label: Calivi
 Origin: Calivi
 Suite: noble
 MD5Sum:
- 088359125e3e174c76b2fe5a634e5b0c             3165 main/binary-amd64/Packages
- 7e5e0790f6a68c99194a96836d0be132             1120 main/binary-amd64/Packages.gz
+ 9710b2791f198f01c4cd832260f67467             4220 main/binary-amd64/Packages
+ b98d4157f34db5428cee38ea23649032             1316 main/binary-amd64/Packages.gz
 SHA1:
- c7de84488733efd500c6af3660728cc9f47dda64             3165 main/binary-amd64/Packages
- 782e015c3b93df878a722e1b77f848d96367fcde             1120 main/binary-amd64/Packages.gz
+ 09223746fe6f159f8085d4396d90d7513ac924eb             4220 main/binary-amd64/Packages
+ 5cd7b2798393d77c8d8a49dc974487aefca37f9b             1316 main/binary-amd64/Packages.gz
 SHA256:
- 8f67d582ab74f61ff76e01cc95ef92e96dccf2e505f9e7b7d189dd5e81901b6b             3165 main/binary-amd64/Packages
- 3b05f4114e6cb25bb11d5f703f966a6ca5ebc4338236e5540ee6d289e8476ab5             1120 main/binary-amd64/Packages.gz
+ cd1ec3bf9f09c5367b826e2f44211593c2f6d038df63f5c3a2c46201cdb1243e             4220 main/binary-amd64/Packages
+ 7b19be712fc57fa564d94303caf431d1844a880ec0b7ca101e6755fd34ff1439             1316 main/binary-amd64/Packages.gz
 SHA512:
- 15590f9b56acc16685db15c288f731a39f115cdbec40952327f3fd64f6d90976f2d79316da42195e72ce428a72c3024de35eed4b1d8322c6341a253cdc46e833             3165 main/binary-amd64/Packages
- 649583976df8199d9e1cf122687bb6bae31a7d01dc4594e9295f9c67df443ee9065de473429e5607c9f8f7ac5fe7b7b0e773c737450dd1af93050a09bb1e2f99             1120 main/binary-amd64/Packages.gz
+ c7978a2f97d3e9052a00378ac00377d0ea08b85a6f15888ed7fdf63cb5d1b09c98d63e806be6250839cf629653e5315dadb6bba961fe0a3db7178bc6b6f124d5             4220 main/binary-amd64/Packages
+ 8ffbd8aca02aa5920d4d4b64f4ebfed4ead3a914b5dc3fe0a8f8624cf48c2dd1e0cb744347b933d85f6eb6700dd5770ccbc42b6103aa18ef7af1b13366095d80             1316 main/binary-amd64/Packages.gz
