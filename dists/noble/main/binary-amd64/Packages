@@ -20,3 +20,25 @@ Description: self-hosted AI chat that can operate the machine it runs on
  nginx on port 80, and its first account becomes the machine's owner, whose
  chat model can run commands on this host behind approval cards.
 
+Package: calivi
+Architecture: amd64
+Version: 0.6.2-1+ubuntu24.04
+Priority: optional
+Section: web
+Maintainer: Orkun Soylu <orkun-soylu@users.noreply.github.com>
+Installed-Size: 114064
+Depends: python3 (>= 3.12), python3 (<< 3.13), nginx, sudo, ca-certificates
+Recommends: qemu-guest-agent
+Filename: pool/noble/calivi_0.6.2-1+ubuntu24.04_amd64.deb
+Size: 23772220
+MD5sum: 47988fe148af378c3bb4554f4b29024e
+SHA1: 50b3b31b461e2adaf3d3af0776779d77504dde7e
+SHA256: 2722d65fe73e2390f998ab83def3077d3bff9a4c9537607d24ddd8ed0f6b2f55
+SHA512: 87d209e762c9bb58f431bd156d842807816e87b46f2a8e349fd3e0c3155746505c664b9c958052e578a639bf1ce1da3ca539bc06bf59d247b66362e8dc3e4660
+Homepage: https://calivi.ai
+Description: self-hosted AI chat that can operate the machine it runs on
+ Calivi is a multi-user chat interface for Ollama and OpenAI-compatible model
+ servers. This package is the calivi-vm build: Calivi runs natively behind
+ nginx on port 80, and its first account becomes the machine's owner, whose
+ chat model can run commands on this host behind approval cards.
+

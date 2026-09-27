@@ -1,20 +1,20 @@
 Architectures: amd64
 Codename: trixie
 Components: main
-Date: Sun, 27 Sep 2026 17:23:38 +0000
+Date: Sun, 27 Sep 2026 18:31:12 +0000
 Description: Calivi for trixie
 Label: Calivi
 Origin: Calivi
 Suite: trixie
 MD5Sum:
- 3803fab69ce3f5691b607c892f2de9c0             1044 main/binary-amd64/Packages
- 2ad99ec83bdd98adab868cd53ebefaf6              709 main/binary-amd64/Packages.gz
+ 119cd9bdf84b34890910c1cc9ebd544f             2088 main/binary-amd64/Packages
+ 6d51ad02b199dcaf16454b0d7394429c              918 main/binary-amd64/Packages.gz
 SHA1:
- 6288ac3fe64a76bf6629fe4f2b19b46b243e6d43             1044 main/binary-amd64/Packages
- b8243e4815c65f5c06e328f440c654c7ad200127              709 main/binary-amd64/Packages.gz
+ a2827df4c0578d94548d7fa63715092b83637bf5             2088 main/binary-amd64/Packages
+ 0d0cfd0c29d722dbf89443ac9a6775b718cc9fdb              918 main/binary-amd64/Packages.gz
 SHA256:
- da0a37e583c34a5d6381b876098e0dbbc38659a220186d34a81a0af65c81e79d             1044 main/binary-amd64/Packages
- 85e050dfd22d94b1f14f7e31e9370f449b3df36aa08447fd994dd5411dd64251              709 main/binary-amd64/Packages.gz
+ 691bf1cf28aa33d1b83387b5de9fd70f9bae578d6d1ecfcd762b84a42d10427c             2088 main/binary-amd64/Packages
+ 8a52c89a02bf0ff54d572139e13e822812ad1214fce71f951518d2c7a8a0ef49              918 main/binary-amd64/Packages.gz
 SHA512:
- 63fd26d89344f5685dfa0da26c800834ff95e54c356420ec8a6b901fd055676861e5cbf2be9bc3b2032e38becd7cb07c8d22ea8b57fc6752622a0b5b3935dde3             1044 main/binary-amd64/Packages
- e9ef45c3382b0e8345049d5d22a52a4089f21496f8853842e29e4928788c5e4e8c53d17bbde6154dc60af6473620a1369aa21097abb8f3154b8f9790a0b9df8c              709 main/binary-amd64/Packages.gz
+ e5e57580185cf54a5fb2bbdff12fe419f1fbac5953220ecf37fead7ce9522348c7bacd14ab87fe8b3f59931bdd988093b80a859c5cda1d7f6b33465f5db7ef91             2088 main/binary-amd64/Packages
+ 5c2cc779d5111889abd3798409dc77cd53911864b85d08ccc255ffbca8d1a0c0ecc6e91dfe4f064a57d2cb2cd5deebbbf51011bb48398597ae792ed18a509333              918 main/binary-amd64/Packages.gz

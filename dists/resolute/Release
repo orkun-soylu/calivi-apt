@@ -1,20 +1,20 @@
 Architectures: amd64
 Codename: resolute
 Components: main
-Date: Sun, 27 Sep 2026 17:23:38 +0000
+Date: Sun, 27 Sep 2026 18:31:12 +0000
 Description: Calivi for resolute
 Label: Calivi
 Origin: Calivi
 Suite: resolute
 MD5Sum:
- 3014fa67ba20ad9fad44064531f89a32             1058 main/binary-amd64/Packages
- c25c06f1fe301da028b0741c7e0dc788              714 main/binary-amd64/Packages.gz
+ a48b5d94bd61f76e774e6d3337af0e86             2116 main/binary-amd64/Packages
+ 94c47717e3e70397dce72e3193b87c13              923 main/binary-amd64/Packages.gz
 SHA1:
- 54920ba6e2160c6adad4a301961e6709152a7e53             1058 main/binary-amd64/Packages
- 95fba22e7325efd764a6faaf58ef839da54d4490              714 main/binary-amd64/Packages.gz
+ bccdd807cd9e0c5efad9c765719bcfd1db46f981             2116 main/binary-amd64/Packages
+ 6e7c5cb695b6813a7634516d8cb173d0e2be91d9              923 main/binary-amd64/Packages.gz
 SHA256:
- 6ed9b4e149e9cf5d7f5f22e397c8bdf00bd02861b9bbab7c923aa5d91caf5642             1058 main/binary-amd64/Packages
- 322e1b698ff6fb42edc93358125da551189cbcf4ed4b85288907f5e3a5e76f8a              714 main/binary-amd64/Packages.gz
+ a85cfe28f718bb164fffba2d5e00d653df519891d49cdfa427a5c9ee104265bd             2116 main/binary-amd64/Packages
+ f1506838703c5d78720b1371e7eec9dbbf3e27a8102499a8ee6f9ffd38d62204              923 main/binary-amd64/Packages.gz
 SHA512:
- 5ced81f7ec020d21e00a3f6bb17d26e1ac9cdfbe455219271542f816635d9ff8011fa16aaf32dac7dd1168f98f7a5f650b8161f4bfcdae44c3fe2789d0796a78             1058 main/binary-amd64/Packages
- 02b6090d904b532848b8b69a798330092b00446c2c45ab4aa4a1fd05893b42c79e51d530c9da06a780b9e09ef987993ed9004780f821c2c12e1b139757d4abcc              714 main/binary-amd64/Packages.gz
+ e2aac998c9a2926520e67a0a1884d8d6dc1f32ab23c588cdb29d708c0e115ac10c7ceee6f5942b7c0742ffc2dcd440e78d964c34d8222628346f6ac66b7e6f16             2116 main/binary-amd64/Packages
+ e8148726285200c3d2ebed3e5dd360ebf2dfb93b51705ec51f925d90798e89fa833331b3c79865514d15ec500b20809bed02c0cc258c8ad65308da5e022f8503              923 main/binary-amd64/Packages.gz
