@@ -1,0 +1,20 @@
+Architectures: amd64
+Codename: noble
+Components: main
+Date: Sun, 27 Sep 2026 17:23:39 +0000
+Description: Calivi for noble
+Label: Calivi
+Origin: Calivi
+Suite: noble
+MD5Sum:
+ aabdc75e19f439b0aa66f6d6527ab788             1055 main/binary-amd64/Packages
+ 49491403c047f4fac7a77539bd6ea20b              714 main/binary-amd64/Packages.gz
+SHA1:
+ 0a2466dbad4e926dbcc341627c198ac4590ca3f2             1055 main/binary-amd64/Packages
+ 963f226177c0de70e23046c23fe325736009d7f8              714 main/binary-amd64/Packages.gz
+SHA256:
+ b929965edb5e9ce7b773d3192c0e9bdff33c0afa49204445e8e90b4604252633             1055 main/binary-amd64/Packages
+ a741563e11fa877699b271a9311aa57aee8d561ca9ff796085c78caca94d7b09              714 main/binary-amd64/Packages.gz
+SHA512:
+ 4123cb70e1db29ac8d33b1c6525e24b0099930f78a2a65eaa108f624ad35a2749becc483422654bad568bf38f3388ad648cd15e079c34b1517923c167cf64a47             1055 main/binary-amd64/Packages
+ dfeae4a57e7bfa719ee99b568e7964b7fda46929ed42f48aa087c1d6a065c3667982d7fc388811a2877902a3fe75c177f89c41764c849889cca72caa3ad703b3              714 main/binary-amd64/Packages.gz

@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: resolute
+Components: main
+Date: Sun, 27 Sep 2026 17:23:38 +0000
+Description: Calivi for resolute
+Label: Calivi
+Origin: Calivi
+Suite: resolute
+MD5Sum:
+ 3014fa67ba20ad9fad44064531f89a32             1058 main/binary-amd64/Packages
+ c25c06f1fe301da028b0741c7e0dc788              714 main/binary-amd64/Packages.gz
+SHA1:
+ 54920ba6e2160c6adad4a301961e6709152a7e53             1058 main/binary-amd64/Packages
+ 95fba22e7325efd764a6faaf58ef839da54d4490              714 main/binary-amd64/Packages.gz
+SHA256:
+ 6ed9b4e149e9cf5d7f5f22e397c8bdf00bd02861b9bbab7c923aa5d91caf5642             1058 main/binary-amd64/Packages
+ 322e1b698ff6fb42edc93358125da551189cbcf4ed4b85288907f5e3a5e76f8a              714 main/binary-amd64/Packages.gz
+SHA512:
+ 5ced81f7ec020d21e00a3f6bb17d26e1ac9cdfbe455219271542f816635d9ff8011fa16aaf32dac7dd1168f98f7a5f650b8161f4bfcdae44c3fe2789d0796a78             1058 main/binary-amd64/Packages
+ 02b6090d904b532848b8b69a798330092b00446c2c45ab4aa4a1fd05893b42c79e51d530c9da06a780b9e09ef987993ed9004780f821c2c12e1b139757d4abcc              714 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEETigqtmbOHilIiwbPYVUp1QQ4GWUFAmq5URoACgkQYVUp1QQ4
+GWXg/g//SNe5aQcZmRYmPJM+Byau4hpp2nMV6/jsZrcJFUiqCEZfY5xMFbOruqO+
+Jri16n/t8AAoBATHHL1fnKvyn9JYoWEch1G49k2+mbXo9TxFXijiPeadvMC8aAR4
+koxlJeamBLb/G7V6SZLkw2KuI0TajzYxzXkQQ8M8VSiOL1VE5putnha+gxbxibSI
+vhxcD2avHQiobM5sgkXtplflNBtiSXO+e0NM2CqwytIp1Bswcd0sKS3RoV4cwcfA
+H8ct86TLU82ZhshbazqT5Vv10lErBXkhaFtkYCCId7PPj5Ih3e6w5ninkuiJ7Dqp
+w0oBhIygwiQarEr7+YIydYaOP7wzuTdg2ikaDx+FAVfeuDxqP8OUR+zZ4ndxwH1i
+NrGY5IknIoCRebRDS/4b1k5kZSUSMKO9KjjFm/UpK3Cb7D7LiTDFJ+Cj7M21Eqlo
+wxZjc2+K6G5CVHbAPFoyBzjw4Wg3Lx8fYO3KIt5Fw4jVKsR6r2PfkRXYWWVjLlzo
+zvBO8ncgO0Sqldcl9zP32YchQWquStBhKiDrvoDoOaE5QJqs4KIjFi4RM1C+iUeX
+zRrnuyY5bffmX+uMI3EMDOW9JlGzjTRj0f3QFYXCTuCmtkcc3HIWO+jmEQEdkLyo
+qTHeLp72T3CNMUe2rKML309Wj7hd0RnFZTAkXX23J4LEWF+LCKk=
+=TN24
+-----END PGP SIGNATURE-----

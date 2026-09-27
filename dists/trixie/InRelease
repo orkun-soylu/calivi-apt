@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: trixie
+Components: main
+Date: Sun, 27 Sep 2026 17:23:38 +0000
+Description: Calivi for trixie
+Label: Calivi
+Origin: Calivi
+Suite: trixie
+MD5Sum:
+ 3803fab69ce3f5691b607c892f2de9c0             1044 main/binary-amd64/Packages
+ 2ad99ec83bdd98adab868cd53ebefaf6              709 main/binary-amd64/Packages.gz
+SHA1:
+ 6288ac3fe64a76bf6629fe4f2b19b46b243e6d43             1044 main/binary-amd64/Packages
+ b8243e4815c65f5c06e328f440c654c7ad200127              709 main/binary-amd64/Packages.gz
+SHA256:
+ da0a37e583c34a5d6381b876098e0dbbc38659a220186d34a81a0af65c81e79d             1044 main/binary-amd64/Packages
+ 85e050dfd22d94b1f14f7e31e9370f449b3df36aa08447fd994dd5411dd64251              709 main/binary-amd64/Packages.gz
+SHA512:
+ 63fd26d89344f5685dfa0da26c800834ff95e54c356420ec8a6b901fd055676861e5cbf2be9bc3b2032e38becd7cb07c8d22ea8b57fc6752622a0b5b3935dde3             1044 main/binary-amd64/Packages
+ e9ef45c3382b0e8345049d5d22a52a4089f21496f8853842e29e4928788c5e4e8c53d17bbde6154dc60af6473620a1369aa21097abb8f3154b8f9790a0b9df8c              709 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEETigqtmbOHilIiwbPYVUp1QQ4GWUFAmq5URoACgkQYVUp1QQ4
+GWUleA/8CWzhC2wTnQwfVvd16JVepbH1CeovPKwbPikjDODcPoqWpDJJMmWHLX7Q
+rrtzBGDIZOxqxJ6zHMS2aIk97WfwStN/1oqKk8OZaxC9b8a5PjDjcx86MjWAyLHh
+y4oUjK6dsIIwt1JL2ZPs3fxaU2Mz3IPq6h0zR7ybfpahBPOYhlofL3U0r0cXhPlM
+HlRGBgpgWZUDtu6hyoGLZNjdHc+3a2dXXE8ddO175kj9e7ZCXfOqLigpPLLcNKiK
+7Fk5MAKmWLO2RFBaLozwXZpiD1eadOwe4oFfsF4nxVeGbGqhQq4MuYPR8fBdUBTJ
+gr0hJ/ixXnkF1nzg13k/2TA129xKHUEC0GFqLfhi7VuKYbbejfTXsF72KLr/taDd
+1V7cUimPJx+Ju0slRtZdabQhYDZ8MlFis32EmRrf0lUwsl6X0rat/nTlhzZqiWKp
+MvtUmh+o/lx+Q0Zb0hP4x2kK69c3iYSv8RjF3CsNx+NorVCtY4EBDpwXlHzf/4yk
+v5jsgqmCCyniRQ/CwVrjXT/ERYq90C0smcRbTl8Zpr3pOHZBRDjJcS262RxJgvEj
+0ux5g6TJ8mabppPdPixiiO/Rd0Zb7xBPxaPr+lqrQ892YOMwCu4+8PjmMtP24ofX
+3MDSCFmiI5qCHBkSbhsCOk/naai2WKJBB/O8NldmXp2cX/RhOFA=
+=wkzq
+-----END PGP SIGNATURE-----
