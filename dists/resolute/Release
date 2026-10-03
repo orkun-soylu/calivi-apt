@@ -1,20 +1,20 @@
 Architectures: amd64
 Codename: resolute
 Components: main
-Date: Sun, 27 Sep 2026 22:04:31 +0000
+Date: Sat, 03 Oct 2026 14:07:19 +0000
 Description: Calivi for resolute
 Label: Calivi
 Origin: Calivi
 Suite: resolute
 MD5Sum:
- 799f844d658ca79a212a78b7142c33c8             5290 main/binary-amd64/Packages
- d47510fa3865404a6b13e068552ae997             1509 main/binary-amd64/Packages.gz
+ 64ad0b4e64ca46a842138adb081ff16e             5290 main/binary-amd64/Packages
+ a1808f3ee99a61f61bee9cbfa1f273ba             1512 main/binary-amd64/Packages.gz
 SHA1:
- 38d3316aa258e5af6aa00e967a1069fb9cd8eb7a             5290 main/binary-amd64/Packages
- f39f15b51bdedf79f7fe75db4e56a00b1b14bde3             1509 main/binary-amd64/Packages.gz
+ 312a1f66edfac7e25adbc0b58307e03021b56cf9             5290 main/binary-amd64/Packages
+ 93f5abd53a83ec9a6333f3f8292578c9e0078698             1512 main/binary-amd64/Packages.gz
 SHA256:
- 266090c6bda4b453b1ae0322a060c5b3a4208e5dd43bdb5f60399f7e1f0d5f97             5290 main/binary-amd64/Packages
- bf14c178bcc023a11135b8b8a86e91e2d5c9a714915782dad5175d35fd6b1115             1509 main/binary-amd64/Packages.gz
+ 1a3a5082a05d2cf1f94421dd2624a1e27e17c2c4658dcea3dbf1f8ee6488e0e9             5290 main/binary-amd64/Packages
+ 6158c0f448a10e8c05a541dbded3193609843374d8781bf68acecddcf4ace67a             1512 main/binary-amd64/Packages.gz
 SHA512:
- 919a5410ba24830a0f54a2e33051cdda26c19a6dfa77a8e9f7705d594f0ba2f3e1b3c7749ae5fe0b59c6d484810903887a0f13308bddbe3c355de5b82afb2462             5290 main/binary-amd64/Packages
- 0c46a0899fffbca89c19c811243fb3bcca7406de4799b208a1be83b8f9e869282b755285c737a1eee7341adc320af04ad9644a599302c47ace846db83052d92c             1509 main/binary-amd64/Packages.gz
+ b2db1834680986b386615f5f3c826fddbdc2e40c898568e4336c991a412a7da99fb6fade13b31898944c2290312dbe63449876bb9498fa0fb5694a9ac6e93f82             5290 main/binary-amd64/Packages
+ 32f52ea6caac2d070bd7c00c6ae4afd0e34cb926ff220ccf19feb8d2317a51fca974ef3029253e5f84c8b4a542f0866426354ab54a6e75b23b0bb6bd00eef60d             1512 main/binary-amd64/Packages.gz
