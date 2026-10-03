@@ -4,36 +4,36 @@ Hash: SHA512
 Architectures: amd64
 Codename: noble
 Components: main
-Date: Sat, 03 Oct 2026 14:07:20 +0000
+Date: Sat, 03 Oct 2026 21:24:20 +0000
 Description: Calivi for noble
 Label: Calivi
 Origin: Calivi
 Suite: noble
 MD5Sum:
- e2c73fd8450f38bd5ddb822540c30766             5275 main/binary-amd64/Packages
- ce5a685f9e7379e6cc802c8b0096ddf3             1512 main/binary-amd64/Packages.gz
+ ff8cafd666e9d21f25422177901671dd             5286 main/binary-amd64/Packages
+ 112270b309708b99743746754e9c90e7             1529 main/binary-amd64/Packages.gz
 SHA1:
- 87cadf66a92de160775bcd158343df4dcd2f8970             5275 main/binary-amd64/Packages
- 6f9122ceb398fba7854a455ac2b8a1bd3164ba7f             1512 main/binary-amd64/Packages.gz
+ cdef9c73ed1465fb24e75269f87f1618636b055d             5286 main/binary-amd64/Packages
+ 2a67f9c8a0ad31ea11ca81e5c389ad48ce2147da             1529 main/binary-amd64/Packages.gz
 SHA256:
- c5a98cc55e51d0bdaf5f36b4224a9a4e734f661de3474177b9dd9e84b01c92fd             5275 main/binary-amd64/Packages
- 704f7ba04ad737c221f4e7637d96bff43720f09a3a39850e6565201b78be374d             1512 main/binary-amd64/Packages.gz
+ 7cf7d563617abdde48fbd839196211dad7d8477378e2599360fe35c1212c7dc5             5286 main/binary-amd64/Packages
+ 70304729ea10b084c2475e6ede9def20617abbba27cf1fceed50bf7311032bab             1529 main/binary-amd64/Packages.gz
 SHA512:
- 8b61a625537d8f44fa3c0ae9bc1217ae168b3eb18b60aae6cd37783f608e97b8a9c8f5a997d66ced4647f264a44f98d92884d21ee7bed1be52bde638cc831fbd             5275 main/binary-amd64/Packages
- 94be815b41168eeab08797792c45fc1323102b1db3fb0ad18919b1eed8f4a604eca9b5f6616d9f760887b253e26d1705641ec2901c5c44eaea1a9a3436df80f6             1512 main/binary-amd64/Packages.gz
+ fb38879a340c4f9a32602cb66fb965fc49d1683a4544ce805239f4ebf494528e9eeec0e48080032f61d094db7cedb6cddf5b9e6eccb04907fa1841e8e0a5f87e             5286 main/binary-amd64/Packages
+ 23f1f4de9a6fb073fedfeff167b200c1a522ce4b22ce58dc9c83555fc5d54b8afa9983d0bfb7a3eeceab64336cd54eadc6d309d0bc8b33c88ae3a9ef79ebf38b             1529 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEETigqtmbOHilIiwbPYVUp1QQ4GWUFAmrBDBgACgkQYVUp1QQ4
-GWUhfRAAnUD73HYx6qS4WWMr49TRCseDE6kYBF2bLyJi+f2SxlfYzmH5Sf5DVCaG
-GDvM1+3lzGbxF1x07nK8DX8bMD3trvXGXMZCUFRijHiN5t/cLQJZkyDKZ5CwPjJ+
-RL0nTmDgV6QucM806tvNoM8IZgq9aEiCph0vI5wGuOC1nH7qj3xOSsn+jCbf8yNI
-luXxV+UjEK/PUo/uqq5KhduXwUt8hoCnrLRo07GYSrixhpZ0jNuvrYMw/x/hqVrZ
-rzVldPH1zKexqsgZ6DS1fYMmk++d0E+N58pJuHqyLQ/UuDPIygJjDL0ZzgpLXg0n
-xeAUvAqlWNvexZT398R23x7xXsIs1678Iiniae250NdcZGGxMbMSyUhcNRehpprR
-eRJ/wbIWkpgE2+o5OdWYl+IbIeIdv2+JVYsz9UykgwsaR4KxU3EAdWcYJ4PkMNnk
-/GRFR9Ogc3ZiPar5dvvcsA2rC/ip7ffk99kZpSpbmvIHKAf+C5FvBF5Lzu2RS6Pq
-hovYxELbkW3eAlS2CNWslBNLuIGIrrq2IBfTgJxnYUlfNuzuMyd33UA/rDhBMgr7
-jAev8iLjHzArgYmtM2NnmsJOuLj7fxdfETeTzHlAWrLSQInk5ZLRXmDow/tQtyLi
-sDOaKXz3paRGVyhYKjnCjWOTR6KnoRGd18gxZzi0g5ge+nTzDOE=
-=+l6p
+iQIzBAEBCgAdFiEETigqtmbOHilIiwbPYVUp1QQ4GWUFAmrBcoQACgkQYVUp1QQ4
+GWWqWxAAggnRUS8kKE/OqIhcSpQxVUqv2xSeOZfgx7cb+DdgEYoxUeXWvXP87a/0
+rjOmcVizEn3x6oIkdVDVqSyXHiptFBq+O4Qp0WFQlVisC/hYwBsv6N0RXc+lPWXB
+xy2jXr+3LVFeP7vOau7acEyfaB6Deyp+qPE92Iyw5X+xYxwrnnvrADKX/Jv+Htiq
+xCXYQ/o+LUyNgx4NHuXn0Xic5P1vJNkIsSserVjUn53e3iLoOJo17A8If1vuNs7A
+MApTtcMtbTHmwxsXpdLktLsOpk9x6VkwQ2pKF7r4PqFINIe8emGVpcPVR9pSkFbq
+YITQV37xuQm2keRRYTATPHldQNmkm6VQvXsMqo417I1MuedNHoizTJZjcn6rPOLu
+StMsPetDaoc9OX2U4GHfl6FQQiAhhrMnSfy5oORoFHwH7C1BkciKrR9Q8JO/wCGP
+yxmRndHq4yRQLFDdO69guvvSIbq3I2uUIJmCBxZiwd2LiVS1eP+il/7lSOKZmfeW
+zONx35PqPcVUPNtWIdRE2l5Aav5paXUJkC5+j+4NQE0CHETVs6noPuoFdbarv8Oh
+rvfPSgiahVx987yD+Sk+Uw0NnETyWUK3Cpd0wDkHItgiritleXMXEi6WtdPP4nl8
+Siq97GXM0chY+9HzTiWkWabA75+EwhDyEKYcFQCQjWiZuP9n+g8=
+=gspP
 -----END PGP SIGNATURE-----

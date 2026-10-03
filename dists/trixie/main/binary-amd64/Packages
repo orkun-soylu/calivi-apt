@@ -1,27 +1,5 @@
 Package: calivi
 Architecture: amd64
-Version: 0.6.2-1+deb13
-Priority: optional
-Section: web
-Maintainer: Orkun Soylu <orkun-soylu@users.noreply.github.com>
-Installed-Size: 113452
-Depends: python3 (>= 3.13), python3 (<< 3.14), nginx, sudo, ca-certificates
-Recommends: qemu-guest-agent
-Filename: pool/trixie/calivi_0.6.2-1+deb13_amd64.deb
-Size: 23846152
-MD5sum: 0751de96caeda3e0fd97e7eba4d5c5bc
-SHA1: 9fb82e0bb9d071d5752df159fd49047cbd5596e9
-SHA256: b1b78357d2e3cdf248eea12ce459e1062252dcc8d2b4ff6bf7a8fd3e2b00822e
-SHA512: 7ca647e411aabc09e302754b8bfaa7d7d7727a44bf67bb7702519af4c5e2bfafd0287d9eb109b7059dacfc8004a98c862043ba6adb0ee14d767c7f5b136060ba
-Homepage: https://calivi.ai
-Description: self-hosted AI chat that can operate the machine it runs on
- Calivi is a multi-user chat interface for Ollama and OpenAI-compatible model
- servers. This package is the calivi-vm build: Calivi runs natively behind
- nginx on port 80, and its first account becomes the machine's owner, whose
- chat model can run commands on this host behind approval cards.
-
-Package: calivi
-Architecture: amd64
 Version: 0.6.3-1+deb13
 Priority: optional
 Section: web
@@ -101,6 +79,28 @@ MD5sum: ee06b4e32b30c717cd45ed997e6810e4
 SHA1: cab80a87e403f65f1e74f1de2f6c8f504b6b9540
 SHA256: 14cdaeb4b6dc6b1d5d1eb7b32ebfc9c8f048a0bc904b16608ff89723f7c685ce
 SHA512: 044339926e5d14725818bae6ceca8af0623eef3b46f60e915cccb9b486547fc7898db07bf0286edab9228853c936a983fac9bedeab27e5cd40067a52786956fe
+Homepage: https://calivi.ai
+Description: self-hosted AI chat that can operate the machine it runs on
+ Calivi is a multi-user chat interface for Ollama and OpenAI-compatible model
+ servers. This package is the calivi-vm build: Calivi runs natively behind
+ nginx on port 80, and its first account becomes the machine's owner, whose
+ chat model can run commands on this host behind approval cards.
+
+Package: calivi
+Architecture: amd64
+Version: 0.7.0-1+deb13
+Priority: optional
+Section: web
+Maintainer: Orkun Soylu <orkun-soylu@users.noreply.github.com>
+Installed-Size: 113812
+Depends: python3 (>= 3.13), python3 (<< 3.14), nginx, sudo, ca-certificates
+Recommends: qemu-guest-agent, logrotate
+Filename: pool/trixie/calivi_0.7.0-1+deb13_amd64.deb
+Size: 23948884
+MD5sum: e63403a0495c8cca6a35c401fca8cc4a
+SHA1: 3e8e38a4af1321624d714b5681639827fb668d96
+SHA256: 5287dc6a20cafe305ddb5567ae41cdee711dd9b44ecff33b8bf5061d76c97f95
+SHA512: 5dc0773a7d8c05ce200d9c575fb6667af899431a84e8f65a66c8c28118d7695f5a935ae340a6d46a060ebb00c2273ad86fe667349c9bfc1c05374daaee607642
 Homepage: https://calivi.ai
 Description: self-hosted AI chat that can operate the machine it runs on
  Calivi is a multi-user chat interface for Ollama and OpenAI-compatible model
